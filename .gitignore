@@ -1,3 +1,4 @@
 node_modules/
 oldfetch.js
 devLocal.js
+.DS_Store
